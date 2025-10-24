@@ -16,7 +16,7 @@ include '../app/news/header.php';
 <h2>Tareas Pendientes</h2>
 <?php
 foreach ($tareas as $tarea) {
-    echo renderizarTarea($tareas);
+    echo renderizarTarea($tarea);
 }
 ?>
 <?php include '../app/news/footer.php'; ?>

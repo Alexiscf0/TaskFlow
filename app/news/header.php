@@ -1,5 +1,4 @@
-<?php require 'index.php'
-?>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
