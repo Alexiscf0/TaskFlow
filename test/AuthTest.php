@@ -2,8 +2,8 @@
 // tests/AuthTest.php
 use PHPUnit\Framework\TestCase;
 // Incluimos los ficheros que contienen la lógica que queremos probar
-require_once 'app/data.php';
-require_once 'app/controllers/AuthController.php';
+require_once '../app/data.php';
+require_once '../app/controllers/AuthController.php';
 class AuthTest extends TestCase
 {
 // Prueba para el "camino feliz" (login correcto)
